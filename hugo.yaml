@@ -1,3 +1,4 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://donalgavin.github.io/
+languageCode: en-au
+title: Donal's Blog
+theme: ["PaperMod"]
