@@ -1,4 +1,4 @@
-
++++
 title = 'About'
 date = 2024-05-25T13:33:30+10:00
 +++
@@ -15,5 +15,5 @@ My main areas of interest are:
 
 As well as writing little scripts that make my life just that bit easier. 
 
-You are welcome to copy and use anything you see on this site however please keep in mind I provide no warrenty and take no responsibility for what it is used for or if it breaks something. 
+You are welcome to copy and use anything you see on this site however please keep in mind I provide no warranty and take no responsibility for what it is used for or if it breaks something. 
 

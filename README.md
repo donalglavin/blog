@@ -5,7 +5,7 @@ This repository contains the raw content for my personal blog. The blog is gener
 This guide will walk you through the steps of creating your Hugo-powered blog, linking it to a GitHub repository, applying a theme, and deploying it to GitHub Pages for free hosting.
 
 ## Step 1. - Generating the site & Repository.
-The following section outlines how to generate the site and the corressponding 
+The following section outlines how to generate the site and the corresponding 
 
 ### Step 1.0 - Hugo New Site.
 Create a new Hugo site using the following command:
@@ -25,7 +25,7 @@ This will create a directory named <your-site-name> with the following subdirect
  -   themes
  - 󰉢  hugo.yaml
 
-### Step 1.1 - Creating the repositoy.
+### Step 1.1 - Creating the repository.
 1. Go to your GitHub account and click "New" to create a new repository.
 1. Name the repository (it can be the same as <your-site-name>).
 1. Choose between "Public" or "Private" visibility.
@@ -45,6 +45,7 @@ git add .
 git commit -m "initial commit"
 ```
 Set the main branch as the default:
+
 ```shell
 git branch -M main
 ```
