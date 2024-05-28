@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2024-05-25T13:33:30-10:00
+date: 2024-05-25
 ---
 I'm currently working as a Senior Mechanical Engineer on a Copper and Gold mine in Queensland, Australia. 
 
